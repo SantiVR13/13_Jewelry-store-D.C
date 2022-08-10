@@ -13,9 +13,6 @@ la estetica de cada una de ellas, todas con diferentes detalles pero cumpliendo 
 
 - https://www.candelariajoyasmayorista.com
 
-- https://www.eltrustjoyerorelojero.com.ar/compras/
+- https://www.eltrustjoyerorelojero.com.ar
 
-- https://leivajoyas.com.ar/
-
-
-
+- https://leivajoyas.com.ar
