@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 13_Jewelry-store-D.C
 
 Nuestro sitio web es un E-Shop de joyeria. Nuestro publico principal son las mujeres, aunque tenemos productos masculinos y para niños
@@ -16,3 +17,6 @@ la estetica de cada una de ellas, todas con diferentes detalles pero cumpliendo 
 - https://www.eltrustjoyerorelojero.com.ar
 
 - https://leivajoyas.com.ar
+=======
+# 13_Jewelry-store-D.C
+>>>>>>> 8b90d42dda3b9b556b796db2754b8d52003cbaad
