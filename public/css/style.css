@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+#logo
+{  
+    display: flexbox;
+    height: 15%;
+    width: 20%;
+}
+
+#botonesDelHeader
+{
+    float: right;
+}
+
+#header
+{
+    width: 100%;
+}
+
+.anuncios
+{
+    width: 100%;
+    height: 50%;
+    background-color: aqua;
+}
